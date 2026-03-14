@@ -1,0 +1,224 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Apollo Diagnostics Nagerbazar",
+      "description": "Apollo Diagnostics Nagerbazar offers NABL-certified blood tests and home sample collection across Dum Dum, Lake Town, Birati, Baguiati, and North Kolkata. Book CBC, Thyroid, HbA1c, Vitamin D, Full Body Checkup and more with 30-minute doorstep collection and same-day digital reports.",
+      "image": [
+        "https://www.apollodiagnostickolkata.in/wp-content/uploads/2023/04/apollo-logo.png",
+        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zpAq14RBbghe0NTWs0V0ww&cb_client=search.gws-prod.gps&w=211&h=120&yaw=4.9970975&pitch=0&thumbfov=100"
+      ],
+      "@id": "https://www.apollodiagnostickolkata.in/blood-test-nagerbazar",
+      "url": "https://www.apollodiagnostickolkata.in/blood-test-nagerbazar",
+      "telephone": "+91 86604 34628",
+      "email": "pcc.nagerbazar@apollodiagnostics.in",
+      "hasMap": "https://www.google.com/maps/place/?q=place_id:ChIJB0Mm4zF2AjoRRV0g4tUUkBY",
+      "openingHours": [
+        "Mo-Sa 06:30-21:30",
+        "Su 06:30-15:30"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "106",
+        "bestRating": "5"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nandarani Apartment, 8A, Narasingha Ave, Nagerbazar, Dum Dum",
+        "addressLocality": "Kolkata",
+        "postalCode": "700074",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.6240305,
+        "longitude": 88.41416199999999
+      },
+      "makesOffer": [
+        { "@type": "Offer", "name": "Diagnostic Center" },
+        { "@type": "Offer", "name": "Blood Testing Service" },
+        { "@type": "Offer", "name": "HIV Testing Center" },
+        { "@type": "Offer", "name": "Home Healthcare Service" },
+        { "@type": "Offer", "name": "Pathology Laboratory" }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Diagnostic Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "CBC Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Lipid Profile Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Beta HCG Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "D-Dimer Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "HIV 1 & 2 Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "ANA Profile Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Cancer Marker Tests" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Thyroid Profile Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "HbA1c Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Vitamin D Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Vitamin B12 Test" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Full Body Checkup" } }
+        ]
+      },
+      "areaServed": [
+        "Dum Dum", "Nagerbazar", "Kamardanga", "Amarpalli", "Motijheel",
+        "Bandhab Nagar", "K.B. Sarani", "Golpark", "Patipukur", "Birati",
+        "Satgachi", "Baguiati", "Bangur", "Lake Town", "Dum Dum Park",
+        "Dum Dum Cantonment", "Subhash Nagar", "Arjunpur", "Kaikhali",
+        "Mondal Ganthi", "Surer Math", "Melabagan Estate", "Basak Bagan",
+        "South Dumdum", "North Dumdum"
+      ],
+      "sameAs": [
+        "https://www.apollodiagnostickolkata.in/blood-test-nagerbazar",
+        "https://apollodiagnostickolkata.blogspot.com/p/blood-test-nagerbazar.html",
+        "https://www.facebook.com/apollodiagnosticspccnagerbazar",
+        "https://www.instagram.com/apollodiagnosticspccnagerbazar",
+        "https://www.youtube.com/@apollodiagnosticsnagerbazar"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is the Apollo Diagnostics center in Nager Bazar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our facility is at Nandarani Apartment, 8A, Narasingha Ave, Nagerbazar, Dum Dum, Kolkata 700074."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I book a home sample collection in Baguiati or Lake Town?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book through our official portal at https://www.apollodiagnostickolkata.in/blood-test-nagerbazar or call us for priority booking in Baguiati, Lake Town, and surrounding areas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are reports for tests like TB Gold or ANA Profile valid for doctors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all our tests are processed in NABL-accredited environments, ensuring reports are medically valid across all major healthcare institutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the working hours of Apollo Diagnostics Nagerbazar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our center is open Monday to Saturday from 6:30 AM to 9:30 PM and Sunday from 6:30 AM to 3:30 PM, including public holidays."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to receive my test reports?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most routine reports like CBC, Lipid Profile, and Blood Sugar are delivered within 24 hours. Specialized tests like ANA Profile or Cancer Markers may take 48 to 72 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How fast can I get a blood test done at home in Nagerbazar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer a 30-minute response time. Once you confirm your booking via WhatsApp, our nearest technician is dispatched to your home in Nagerbazar, Dum Dum, or Baguiati immediately."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide home collection for the Airport and Jessore Road area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We have dedicated technicians covering Airport Gates 1, 2, and 3, Subhasnagar, and all of Jessore Road. We are local to the area and can reach you quickly even during peak traffic hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the reports from home collection valid for specialist doctors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. We follow the exact same clinical protocols for home collection as we do in our main center. Every sample is barcoded and transported in a 4 degree Celsius cold chain to ensure the results are 100% accurate and accepted by all doctors and hospitals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I pay for my home blood test?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We accept UPI (GPay/PhonePe), Cash, or Online Payment links. You can pay the technician directly after the sample is collected."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a Full Body Checkup for my parents who are senior citizens?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Xpert Senior Citizen packages are our most popular choice in Nagerbazar. Our technicians are specially trained in soft-collection techniques for elderly patients with fragile veins, ensuring a painless experience at home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide home collection in Birati and Satgachi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover Birati, Satgachi, and surrounding North Dumdum areas. Book via WhatsApp or call us directly for same-day collection."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a blood test at home in Patipukur or Bandhab Nagar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our technicians regularly serve Patipukur, Bandhab Nagar, and South Dumdum areas with 30-minute home collection and same-day digital reports."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you serve Mondal Ganthi, Kaikhali and Arjunpur areas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover Mondal Ganthi, Arjunpur, and Kaikhali under North Dumdum. Our phlebotomist will reach your doorstep within 30 minutes of booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is home collection available in Melabagan Estate and Basak Bagan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we serve Melabagan Estate, Basak Bagan, and Surer Math in South Dumdum. Call or WhatsApp us to confirm your slot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer blood tests near K.B. Sarani and Golpark area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, K.B. Sarani, Golpark, and Kamardanga are within our service zone. Book a home collection or walk into our Nagerbazar center nearby."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.apollodiagnostickolkata.in/home"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blood Test in Nagerbazar",
+          "item": "https://www.apollodiagnostickolkata.in/blood-test-nagerbazar"
+        }
+      ]
+    }
+  ]
+}
